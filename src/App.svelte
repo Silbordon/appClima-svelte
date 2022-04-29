@@ -12,7 +12,7 @@ import Weather from "./components/Weather.svelte";
 <style>
 .container{
 	background-color: rgba(78, 172, 147, 0.338);
-	height: 40vh;
+	height: 50vh;
 	border-radius: 10px;
 	box-shadow: 1px 6px 5px #2140475d;
 }

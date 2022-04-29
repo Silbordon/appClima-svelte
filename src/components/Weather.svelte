@@ -73,4 +73,9 @@ import WeatherData from "./WeatherData.svelte";
         font-size: 20px;
         
     }
+
+    button{
+        margin-left: 5px;
+        border-radius: 8px;
+    }
 </style>
